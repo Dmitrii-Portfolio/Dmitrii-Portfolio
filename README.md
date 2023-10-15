@@ -7,9 +7,9 @@ vision to life.
 My stack:        
 
 • Programming languages: JavaScript       
-• Front-end technologies: HTML, CSS, React, Material UI      
-• Back-end technologies: Node.js, Express.js, Database      
-• Databases: MongoDB       
+• Front-end technologies: HTML, CSS, React, Material UI, Bootstrap.           
+• Back-end technologies: Node.js, Express.js, Mongoose.js.            
+• Databases: MongoDB.             
 • Strong background in React      
 • UI Tools: Material UI and Bootstrap       
 • Development to Production & Deployment      
