@@ -1,4 +1,4 @@
-<img alt="display" width='100%' height="10%" src="https://i.ytimg.com/vi/Bu36c0aLXpQ/maxresdefault.jpg"/>
+<img alt="display" align='left'  height="200px" src="https://www.kobzarev.com/wp-content/uploads/2011/06/javascript-wallpaper-e1476275770831.jpg"/>
 <h1 align="center">Hi 👋, I'm Dmitrii Aristov</h1>
 <h3 align="center">full-stack developer</h3>
 
