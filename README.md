@@ -1,7 +1,6 @@
-<img alt="display" align='rigth' width='1000px'  height="200px" src="https://www.kobzarev.com/wp-content/uploads/2011/06/javascript-wallpaper-e1476275770831.jpg"/>
+<img alt="display" align='rigth'  width='1000px'  height="400px"  src="https://avatars.dzeninfra.ru/get-zen_doc/3381150/pub_5fe1c574230da257b755b5ab_5fe1c87384a07b3cc1ccf60f/scale_1200"/>
 <h1 align="center">Hi 👋, I'm Dmitrii Aristov</h1>
 <h3 align="center">full-stack developer</h3>
-
 - 🌱 I’m currently learning **Nest.js,React-Native**
 
 - 💬 Ask me about **React.Js,Node.Js,Express.js,Mongoose**
