@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitrii Aristov</h1>
 <h3 align="center">full-stack developer</h3>
-
+<img alig="rigth" alt="display" width="400" src="https://www.securitylab.ru/upload/iblock/aba/olgz4tpxjxurewkclo9huk1147ke0h0f.jpg"/>
 - 🌱 I’m currently learning **Nest.js,React-Native**
 
 - 💬 Ask me about **React.Js,Node.Js,Express.js,Mongoose**
