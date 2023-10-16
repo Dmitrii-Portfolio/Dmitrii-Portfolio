@@ -1,4 +1,4 @@
-<img alt="display" width='100%' height="10%" src="https://avatars.mds.yandex.net/i?id=9baa057a4cce70ef9b06e11f11a4e4e1-4396877-images-thumbs&ref=rim&n=33&w=356&h=200"/>
+<img alt="display" width='100%' height="10%" src="https://i.ytimg.com/vi/Bu36c0aLXpQ/maxresdefault.jpg"/>
 <h1 align="center">Hi 👋, I'm Dmitrii Aristov</h1>
 <h3 align="center">full-stack developer</h3>
 
