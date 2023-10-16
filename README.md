@@ -1,4 +1,4 @@
-<img alt="display" height="10%" src="https://www.codingem.com/wp-content/uploads/2021/08/safar-safarov-msn8tfhj0is-unsplash-scaled.jpeg"/>
+<img alt="display" width='100%' height="10%" src="https://avatars.mds.yandex.net/i?id=9baa057a4cce70ef9b06e11f11a4e4e1-4396877-images-thumbs&ref=rim&n=33&w=356&h=200"/>
 <h1 align="center">Hi 👋, I'm Dmitrii Aristov</h1>
 <h3 align="center">full-stack developer</h3>
 
